@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Project-Athena-2024
-- 👀 I’m interested in Providing Data Solutions
-- 💞️ I’m looking to collaborate on Various Projects Data related, from Engineering, Architeture, Pipelines, Analytics pretty much any data solution in any industry
+- 👋 Welcome to @Project-Athena-2024
+- 👀 We Are interested in Providing Data Solutions
+- 💞️ We are interested in collaborating on Various Projects Data related, from Engineering, Architeture, Pipelines, Analytics pretty much any data solution in any industry
 - 📫 How to reach the team: athenaproject2024@gmail.com
 
 <!---
